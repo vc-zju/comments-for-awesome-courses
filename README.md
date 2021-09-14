@@ -64,4 +64,4 @@ Issue、PR、纠错、资料、攻略，各种欢迎！
 
 ## 致谢
 
-感谢提出这个想法的同学@itwangashao，同时本项目大量参考了[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)，一并感谢~
+感谢提出这个想法的同学@itwangashao，同时本项目大量参考了[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)，一并感谢~~
